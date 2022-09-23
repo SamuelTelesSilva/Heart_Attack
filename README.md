@@ -1,4 +1,4 @@
-# Heart Attack Analysis & Prediction Teste :heart:
+# Heart Attack Analysis & Prediction :heart:
 
 Infarto do miocárdio ou como é conhecido popularmente ataque cardíaco, trata-se de uma doença cardíaca e umas das principais causas de mortes em todo o mundo. Sendo uma doença capaz de causar a morte das células de uma região do músculo do coração por conta da formação de um coágulo que interrompe o fluxo sanguíneo de forma súbita e intensa. É difícil para os médicos preverem quando o paciente terá um ataque cardíaco, pois se trata de uma tarefa complexa que requer muita experiência e conhecimento dentro da área médica. O setor de saúde hoje contém informações ocultas que podem ou poderiam ser importantes durante a tomada de decisões. E a utilização de algoritmos de classificação podem realizar a pesquisa para prever ataques cardíacos. Estes algoritmos ajudariam o setor da saúde à prever padrões entre os pacientes de como está doença se comporta e identificar possiveis chances de um infarto vir a ocorrer.
 
